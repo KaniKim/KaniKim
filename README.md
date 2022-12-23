@@ -17,7 +17,7 @@
 
 
 <a href="https://www.linkedin.com/in/kanikim/" target="_blank"><img src="https://img.shields.io/badge/Kani's LinkedIn-0A66C2?style=flat-square&logo=linkedin&logo-color=0A66C2"/></a>
-  <a href="https://velog.io/@kanikim/" target="_blank"><img src="https://img.shields.io/badge/Kani's Velog-FFFFFF?style=flat-square&logo=velog&logo-color=20C997"/></a>
+  <a href="https://kimkani.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Kani's Blog-000000?style=flat-square&logo=tistory&logo-color=000000"/></a>
   
 
 <p>
