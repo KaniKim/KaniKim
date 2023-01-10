@@ -12,7 +12,7 @@
 <br>
 
 <h2 align=center>
-  Welcome, Bruh, And AIKO
+  Welcome, Bruh
 </h2>
 <br>
 
