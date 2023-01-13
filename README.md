@@ -41,7 +41,7 @@
   
 <div align=center>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kanikim&theme=nord&column=6)](https://github.com/kanikim/)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=kanikim&theme=nord&column=6)](https://github.com/kanikim/) 
 
   </div>
   
