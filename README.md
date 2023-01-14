@@ -66,9 +66,6 @@
   <img alt="vuetify" src ="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=flat-square&logo=Vuetify&logoColor=FFFFFF"/>
   <img alt="vite" src ="https://img.shields.io/badge/Vite-646CFF.svg?&style=flat-square&logo=Vite&logoColor=FFFFFF"/>
     <br>
-  <img alt="ruby" src ="https://img.shields.io/badge/Ruby-CC342D.svg?&style=flat-square&logo=Ruby&logoColor=FFFFFF"/>
-  <img alt="rubyonrails" src ="https://img.shields.io/badge/Ruby on Rails-CC0000.svg?&style=flat-square&logo=rubyonrails&logoColor=FFFFFF"/>
-    <br>
   <img alt="microsoft" src ="https://img.shields.io/badge/Microsoft-5E5E5E.svg?&style=flat-square&logo=Microsoft&logoColor=FFFFFF"/>
   <img alt="microsoftazure" src ="https://img.shields.io/badge/Microsoft Azure-0078D4.svg?&style=flat-square&logo=microsoftazure&logoColor=FFFFFF"/>
   <img alt="azurefunctions" src ="https://img.shields.io/badge/Azure Functions-0062AD.svg?&style=flat-square&logo=azurefunctions&logoColor=FFFFFF"/>
