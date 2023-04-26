@@ -9,10 +9,9 @@
 
 <br>
 <br>
-<br>
 
 <h2 align=center>
-  Welcome, Bruh
+  Welcome, My Friends
 </h2>
 <br>
 
