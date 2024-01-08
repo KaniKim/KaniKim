@@ -20,13 +20,11 @@
   
 
 <p>
- I'm usually programming Backend and DevOps, and also I have a job in Capgemini. I can speak 4 lagnuages; French, English, Korean, and Japanese. I graduated Sungkyunkwan University with B.S. And I started my first code at 2016. If you have any question please text me a mail to kkh5428 [at] gmail.com.
+ I'm usually programming Backend and DevOps. I can speak 3 lagnuages; English, Korean, and Japanese. I graduated Sungkyunkwan University with B.S. And I started my first code at 2016. If you have any question please text me a mail to kkh5428 [at] gmail.com.
+
+  백엔드와 데브옵스로 프로그래밍을 하고 있습니다. 영어, 한국어, 그리고 일어를 비롯한 4개국어를 할 줄 압나다. 성균관대학교를 졸업했습니다. 만약 궁금하신 점이 있으신 분들은 kkh5428 [at] gmail.com로 연락 부탁드립니다.
   
- Je programme habituellement Backend et DevOps, et j'ai aussi un emploi chez Capgemini. Je peux parler 4 langues; français, anglais, coréen et japonais. Je suis diplômé de l'Université Sungkyunkwan avec un B.S. Et j'ai commencé mon premier code en 2016. Si vous avez des questions, envoyez-moi un e-mail à kkh5428 [at] gmail.com.
-  
- 백엔드와 데브옵스로 프로그래밍을 하며, 현재는 캡제미니에서 일하고 있습니다. 불어, 영어, 한국어, 그리고 일어를 비롯한 4개국어를 할 줄 압나다. 성균관대학교를 졸업했습니다. 만약 궁금하신 점이 있으신 분들은 kkh5428 [at] gmail.com로 연락 부탁드립니다.
-  
- 主にBackendとDevOpsのことをプログラミングして、今はキャップジェミニで働いてます。フランス語、英語、韓国語、そして日本語をしゃべれます。ソンギュンガン大学を卒業しました。初めてのプログラミングは2016年です。伺いたいことがある方はkkh5428 [at] gmail.comまで、メールお願いいたします。
+ 主にBackendとDevOpsのことをプログラミングしてます。英語、韓国語、そして日本語をしゃべれます。ソンギュンガン大学を卒業しました。初めてのプログラミングは2016年です。伺いたいことがある方はkkh5428 [at] gmail.comまで、メールお願いいたします。
 </p>
 
 
