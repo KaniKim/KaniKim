@@ -13,12 +13,6 @@
   Welcome, My Friends
 </h2>
 <br>
-
-
-<a href="https://www.linkedin.com/in/kanikim/" target="_blank"><img src="https://img.shields.io/badge/Kani's LinkedIn-0A66C2?style=flat-square&logo=linkedin&logo-color=0A66C2"/></a>
-  <a href="https://kimkani.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Kani's Blog-000000?style=flat-square&logo=tistory&logo-color=000000"/></a>
-  
-
 <p>
  I'm usually programming Backend and DevOps. I can speak 3 lagnuages; English, Korean, and Japanese. I graduated Sungkyunkwan University with B.S. And I started my first code at 2016. If you have any question please text me a mail to kkh5428 [at] gmail.com.
 
