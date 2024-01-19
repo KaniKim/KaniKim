@@ -66,7 +66,6 @@
 <h3 align=center> My Stats </h3>
 
 <hr>
-<hr>
 
 <div align=center>
   
