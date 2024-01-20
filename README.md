@@ -6,9 +6,6 @@
   <br>
 </div>
 
-<br>
-<br>
-
 <h2 align=center>
   Welcome, My Friends
 </h2>
